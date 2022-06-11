@@ -1,0 +1,32 @@
+#SUBMIT{
+ margin-top: 20px; 
+ margin-bottom: 20px; 
+ background-color:rgb(0, 255, 204);
+}
+#SORT{
+    display:none;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    background-color:rgb(0, 255, 204);  
+   }
+   body{
+       background-color: lightskyblue;
+   }
+   input{
+    margin: 10px;   
+   }
+   #student1{
+       background-color:violet;
+   }
+   #student2{
+    background-color:yellow;
+}
+#student3{
+    background-color:red;
+}
+#student4{
+    background-color:orange;
+}
+#student5{
+    background-color:hotpink;
+}
